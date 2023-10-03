@@ -1,0 +1,389 @@
+﻿provincias;año;mes;total;intervenciones;violencias
+Ciudad Autónoma de Buenos Aires;2022;1;178;37;66
+Ciudad Autónoma de Buenos Aires;2022;2;304;39;100
+Ciudad Autónoma de Buenos Aires;2022;3;370;45;145
+Ciudad Autónoma de Buenos Aires;2022;4;333;68;138
+Ciudad Autónoma de Buenos Aires;2022;5;283;74;118
+Ciudad Autónoma de Buenos Aires;2022;6;255;63;109
+Ciudad Autónoma de Buenos Aires;2022;7;245;74;106
+Ciudad Autónoma de Buenos Aires;2022;8;241;78;102
+Ciudad Autónoma de Buenos Aires;2022;9;254;81;94
+Ciudad Autónoma de Buenos Aires;2022;10;195;61;66
+Ciudad Autónoma de Buenos Aires;2022;11;273;97;113
+Ciudad Autónoma de Buenos Aires;2022;12;229;89;73
+Ciudad Autónoma de Buenos Aires;2023;1;222;85;89
+Ciudad Autónoma de Buenos Aires;2023;2;265;61;102
+Ciudad Autónoma de Buenos Aires;2023;3;392;141;143
+Ciudad Autónoma de Buenos Aires;2023;4;298;93;118
+Ciudad Autónoma de Buenos Aires;2023;5;269;104;103
+Ciudad Autónoma de Buenos Aires;2023;6;211;117;67
+Buenos Aires;2022;1;311;287;218
+Buenos Aires;2022;2;372;331;246
+Buenos Aires;2022;3;347;320;262
+Buenos Aires;2022;4;435;359;280
+Buenos Aires;2022;5;388;313;256
+Buenos Aires;2022;6;309;242;201
+Buenos Aires;2022;7;252;239;199
+Buenos Aires;2022;8;225;209;173
+Buenos Aires;2022;9;290;260;223
+Buenos Aires;2022;10;294;242;196
+Buenos Aires;2022;11;481;426;379
+Buenos Aires;2022;12;345;331;294
+Buenos Aires;2023;1;527;477;402
+Buenos Aires;2023;2;636;564;496
+Buenos Aires;2023;3;667;581;492
+Buenos Aires;2023;4;506;421;372
+Buenos Aires;2023;5;509;418;370
+Buenos Aires;2023;6;524;413;372
+Catamarca;2022;1;58;53;40
+Catamarca;2022;2;69;65;43
+Catamarca;2022;3;149;113;86
+Catamarca;2022;4;85;66;43
+Catamarca;2022;5;87;62;43
+Catamarca;2022;6;103;72;55
+Catamarca;2022;7;54;33;17
+Catamarca;2022;8;119;74;44
+Catamarca;2022;9;112;87;59
+Catamarca;2022;10;92;71;42
+Catamarca;2022;11;102;83;49
+Catamarca;2022;12;69;59;43
+Catamarca;2023;1;68;62;38
+Catamarca;2023;2;24;20;10
+Catamarca;2023;3;92;82;49
+Catamarca;2023;4;58;48;34
+Catamarca;2023;5;68;62;39
+Catamarca;2023;6;66;59;31
+Córdoba;2022;1;134;134;131
+Córdoba;2022;2;127;127;123
+Córdoba;2022;3;197;197;192
+Córdoba;2022;4;154;154;144
+Córdoba;2022;5;129;129;124
+Córdoba;2022;6;491;161;224
+Córdoba;2022;7;495;141;214
+Córdoba;2022;8;747;207;320
+Córdoba;2022;9;647;164;252
+Córdoba;2022;10;693;177;293
+Córdoba;2022;11;706;161;249
+Córdoba;2022;12;684;148;237
+Córdoba;2023;1;701;142;216
+Córdoba;2023;2;788;223;299
+Córdoba;2023;3;906;232;351
+Córdoba;2023;4;729;164;258
+Córdoba;2023;5;722;142;218
+Córdoba;2023;6;643;126;171
+Corrientes;2022;1;9;7;5
+Corrientes;2022;2;15;14;9
+Corrientes;2022;3;32;21;17
+Corrientes;2022;4;86;39;19
+Corrientes;2022;5;42;31;13
+Corrientes;2022;6;23;18;11
+Corrientes;2022;7;19;17;8
+Corrientes;2022;8;30;25;8
+Corrientes;2022;9;28;27;10
+Corrientes;2022;10;24;21;14
+Corrientes;2022;11;42;35;14
+Corrientes;2022;12;13;12;7
+Corrientes;2023;1;14;14;10
+Corrientes;2023;2;34;32;15
+Corrientes;2023;3;39;37;23
+Corrientes;2023;4;34;31;14
+Corrientes;2023;5;52;37;29
+Corrientes;2023;6;26;26;17
+Chaco;2022;1;276;215;134
+Chaco;2022;2;176;148;82
+Chaco;2022;3;220;207;109
+Chaco;2022;4;279;193;140
+Chaco;2022;5;192;145;89
+Chaco;2022;6;266;177;117
+Chaco;2022;7;306;213;146
+Chaco;2022;8;268;195;124
+Chaco;2022;9;263;184;124
+Chaco;2022;10;264;206;122
+Chaco;2022;11;281;205;138
+Chaco;2022;12;212;151;93
+Chaco;2023;1;235;168;111
+Chaco;2023;2;231;166;111
+Chaco;2023;3;321;211;159
+Chaco;2023;4;330;237;151
+Chaco;2023;5;279;195;106
+Chaco;2023;6;280;189;128
+Chubut;2022;1;2;0;
+Chubut;2022;2;1;0;
+Chubut;2022;3;9;0;2
+Chubut;2022;4;14;2;2
+Chubut;2022;5;20;2;9
+Chubut;2022;6;15;3;7
+Chubut;2022;7;39;5;11
+Chubut;2022;8;20;6;3
+Chubut;2022;9;21;5;7
+Chubut;2022;10;19;5;6
+Chubut;2022;11;20;4;10
+Chubut;2022;12;15;5;6
+Chubut;2023;1;13;1;7
+Chubut;2023;2;22;2;2
+Chubut;2023;3;29;15;5
+Chubut;2023;4;38;15;7
+Chubut;2023;5;24;10;6
+Chubut;2023;6;17;6;4
+Entre Ríos;2022;1;102;34;28
+Entre Ríos;2022;2;107;60;44
+Entre Ríos;2022;3;151;89;73
+Entre Ríos;2022;4;139;81;60
+Entre Ríos;2022;5;160;97;67
+Entre Ríos;2022;6;153;114;72
+Entre Ríos;2022;7;143;105;54
+Entre Ríos;2022;8;133;84;63
+Entre Ríos;2022;9;134;74;57
+Entre Ríos;2022;10;169;86;70
+Entre Ríos;2022;11;163;77;67
+Entre Ríos;2022;12;153;71;58
+Entre Ríos;2023;1;165;85;57
+Entre Ríos;2023;2;165;88;60
+Entre Ríos;2023;3;214;128;82
+Entre Ríos;2023;4;183;93;76
+Entre Ríos;2023;5;249;124;96
+Entre Ríos;2023;6;152;74;58
+Formosa;2022;1;142;78;79
+Formosa;2022;2;162;74;83
+Formosa;2022;3;213;66;119
+Formosa;2022;4;211;68;106
+Formosa;2022;5;203;88;82
+Formosa;2022;6;196;78;79
+Formosa;2022;7;166;127;74
+Formosa;2022;8;183;148;86
+Formosa;2022;9;107;84;49
+Formosa;2022;10;73;21;22
+Formosa;2022;11;138;86;59
+Formosa;2022;12;151;109;75
+Formosa;2023;1;157;115;77
+Formosa;2023;2;170;139;83
+Formosa;2023;3;219;169;118
+Formosa;2023;4;178;129;88
+Formosa;2023;5;178;130;99
+Formosa;2023;6;150;129;67
+Jujuy;2022;1;91;62;46
+Jujuy;2022;2;170;111;87
+Jujuy;2022;3;130;65;75
+Jujuy;2022;4;215;124;120
+Jujuy;2022;5;275;163;146
+Jujuy;2022;6;275;153;153
+Jujuy;2022;7;321;164;165
+Jujuy;2022;8;277;160;142
+Jujuy;2022;9;352;176;182
+Jujuy;2022;10;369;192;192
+Jujuy;2022;11;325;149;166
+Jujuy;2022;12;265;142;134
+Jujuy;2023;1;214;118;108
+Jujuy;2023;2;144;73;72
+Jujuy;2023;3;204;106;106
+Jujuy;2023;4;234;119;95
+Jujuy;2023;5;244;121;118
+Jujuy;2023;6;250;117;110
+La Pampa;2022;10;48;16;31
+La Pampa;2022;11;18;6;12
+La Pampa;2022;12;14;6;11
+La Pampa;2023;1;20;5;14
+La Pampa;2023;2;17;12;13
+La Pampa;2023;3;14;7;6
+La Pampa;2023;4;18;8;14
+La Pampa;2023;5;14;10;10
+La Pampa;2023;6;9;3;5
+La Rioja;2022;2;4;3;4
+La Rioja;2022;3;4;4;3
+La Rioja;2022;4;8;5;5
+La Rioja;2022;5;12;12;8
+La Rioja;2022;6;7;5;6
+La Rioja;2022;7;5;4;3
+La Rioja;2022;8;6;4;5
+La Rioja;2022;9;9;9;8
+La Rioja;2022;10;13;10;10
+La Rioja;2022;11;20;15;15
+La Rioja;2022;12;12;9;8
+La Rioja;2023;1;8;3;7
+La Rioja;2023;2;14;9;11
+La Rioja;2023;3;31;21;25
+La Rioja;2023;4;34;26;25
+La Rioja;2023;5;40;30;21
+La Rioja;2023;6;35;27;24
+Mendoza;2022;1;300;147;177
+Mendoza;2022;2;297;117;137
+Mendoza;2022;3;412;195;201
+Mendoza;2022;4;339;142;157
+Mendoza;2022;5;356;137;171
+Mendoza;2022;6;323;127;135
+Mendoza;2022;7;276;100;111
+Mendoza;2022;8;393;140;163
+Mendoza;2022;9;346;152;155
+Mendoza;2022;10;333;207;143
+Mendoza;2022;11;360;166;177
+Mendoza;2022;12;282;133;128
+Mendoza;2023;1;360;190;191
+Mendoza;2023;2;403;163;188
+Mendoza;2023;3;429;196;173
+Mendoza;2023;4;350;165;158
+Mendoza;2023;5;320;134;121
+Mendoza;2023;6;258;110;106
+Misiones;2022;1;26;12;19
+Misiones;2022;2;33;2;14
+Misiones;2022;3;18;5;12
+Misiones;2022;4;13;7;8
+Misiones;2022;5;20;7;12
+Misiones;2022;6;21;11;12
+Misiones;2022;7;27;17;14
+Misiones;2022;8;36;23;24
+Misiones;2022;9;98;49;57
+Misiones;2022;10;68;34;44
+Misiones;2022;11;66;46;42
+Misiones;2022;12;37;25;21
+Misiones;2023;1;70;38;42
+Misiones;2023;2;78;48;42
+Misiones;2023;3;55;45;34
+Misiones;2023;4;89;61;40
+Misiones;2023;5;94;42;65
+Misiones;2023;6;71;34;39
+Neuquén;2022;1;74;42;63
+Neuquén;2022;2;85;62;62
+Neuquén;2022;3;124;86;80
+Neuquén;2022;4;163;97;125
+Neuquén;2022;5;140;92;119
+Neuquén;2022;6;98;58;79
+Neuquén;2022;7;128;84;109
+Neuquén;2022;8;171;95;143
+Neuquén;2022;9;168;106;144
+Neuquén;2022;10;161;100;138
+Neuquén;2022;11;142;97;129
+Neuquén;2022;12;69;54;68
+Neuquén;2023;1;89;60;75
+Neuquén;2023;2;77;56;67
+Neuquén;2023;3;138;76;107
+Neuquén;2023;4;102;61;80
+Neuquén;2023;5;173;118;142
+Neuquén;2023;6;165;75;127
+Río Negro;2022;1;22;10;12
+Río Negro;2022;2;29;8;25
+Río Negro;2022;3;24;5;11
+Río Negro;2022;4;30;13;21
+Río Negro;2022;5;26;11;18
+Río Negro;2022;6;39;4;27
+Río Negro;2022;7;59;9;26
+Río Negro;2022;8;50;6;20
+Río Negro;2022;9;55;4;32
+Río Negro;2022;10;38;7;21
+Río Negro;2022;11;37;19;17
+Río Negro;2022;12;25;10;13
+Río Negro;2023;1;33;7;12
+Río Negro;2023;2;38;13;30
+Río Negro;2023;3;81;13;30
+Río Negro;2023;4;44;9;23
+Río Negro;2023;5;54;7;22
+Río Negro;2023;6;35;4;15
+Salta;2022;1;95;58;57
+Salta;2022;2;75;39;53
+Salta;2022;3;53;31;27
+Salta;2022;4;72;50;47
+Salta;2022;5;70;46;49
+Salta;2022;6;75;46;49
+Salta;2022;7;39;25;26
+Salta;2022;8;64;34;41
+Salta;2022;9;42;30;23
+Salta;2022;10;90;65;63
+Salta;2022;11;88;48;48
+Salta;2022;12;58;48;30
+Salta;2023;1;56;32;25
+Salta;2023;2;82;54;41
+Salta;2023;3;103;57;56
+Salta;2023;4;61;37;27
+Salta;2023;5;85;52;56
+Salta;2023;6;73;45;43
+San Juan;2022;1;336;333;282
+San Juan;2022;2;347;343;301
+San Juan;2022;3;406;399;309
+San Juan;2022;4;370;355;300
+San Juan;2022;5;365;351;296
+San Juan;2022;6;321;313;250
+San Juan;2022;7;301;290;232
+San Juan;2022;8;405;395;316
+San Juan;2022;9;426;423;293
+San Juan;2022;10;393;390;299
+San Juan;2022;11;446;441;359
+San Juan;2022;12;380;367;275
+San Juan;2023;1;414;407;297
+San Juan;2023;2;434;428;340
+San Juan;2023;3;499;496;386
+San Juan;2023;4;474;462;350
+San Juan;2023;5;486;470;351
+San Juan;2023;6;415;411;315
+San Luis;2022;1;62;17;10
+San Luis;2022;2;17;2;2
+San Luis;2022;3;10;10;8
+San Luis;2022;4;8;6;4
+San Luis;2022;5;6;4;2
+San Luis;2022;6;18;17;10
+San Luis;2022;7;20;19;17
+San Luis;2022;8;14;13;6
+San Luis;2022;9;16;13;9
+San Luis;2022;10;33;21;14
+San Luis;2022;11;23;19;17
+San Luis;2022;12;26;23;18
+San Luis;2023;1;28;22;24
+San Luis;2023;2;23;19;21
+San Luis;2023;3;44;35;30
+San Luis;2023;4;55;44;42
+San Luis;2023;5;41;22;19
+San Luis;2023;6;39;20;20
+Santa Cruz;2022;1;11;6;3
+Santa Cruz;2022;2;18;12;5
+Santa Cruz;2022;3;26;15;9
+Santa Cruz;2022;4;31;29;17
+Santa Cruz;2022;5;26;21;11
+Santa Cruz;2022;6;20;14;9
+Santa Cruz;2022;7;23;18;5
+Santa Cruz;2022;8;22;12;8
+Santa Cruz;2022;9;29;23;11
+Santa Cruz;2022;10;19;14;8
+Santa Cruz;2022;11;37;34;27
+Santa Cruz;2022;12;28;23;16
+Santa Cruz;2023;1;19;16;13
+Santa Cruz;2023;2;28;21;11
+Santa Cruz;2023;3;26;19;7
+Santa Cruz;2023;4;22;16;5
+Santa Cruz;2023;5;34;17;8
+Santa Cruz;2023;6;23;10;7
+Santa Fe;2022;1;63;20;34
+Santa Fe;2022;2;48;30;25
+Santa Fe;2022;3;85;41;50
+Santa Fe;2022;4;66;35;43
+Santa Fe;2022;5;84;27;50
+Santa Fe;2022;6;63;19;38
+Santa Fe;2022;7;46;13;22
+Santa Fe;2022;8;50;24;27
+Santa Fe;2022;9;74;33;45
+Santa Fe;2022;10;86;46;42
+Santa Fe;2022;11;89;41;45
+Santa Fe;2022;12;112;51;51
+Santa Fe;2023;1;97;40;43
+Santa Fe;2023;2;138;77;82
+Santa Fe;2023;3;140;66;74
+Santa Fe;2023;4;99;43;60
+Santa Fe;2023;5;122;64;59
+Santa Fe;2023;6;90;48;39
+Tucumán;2022;1;119;111;66
+Tucumán;2022;2;62;62;44
+Tucumán;2022;3;235;216;126
+Tucumán;2022;4;371;327;117
+Tucumán;2022;5;267;204;67
+Tucumán;2022;6;265;224;90
+Tucumán;2022;7;80;44;18
+Tucumán;2022;8;396;310;161
+Tucumán;2022;9;130;66;25
+Tucumán;2022;10;120;35;20
+Tucumán;2022;11;92;46;18
+Tucumán;2022;12;208;;53
+Tucumán;2023;1;134;;38
+Tucumán;2023;2;45;;8
+Tucumán;2023;3;66;;7
+Tucumán;2023;4;419;;196
+Tucumán;2023;5;175;;53
+Tucumán;2023;6;124;;58
+;;;;;
+No se han aplicado filtros;;;;;
